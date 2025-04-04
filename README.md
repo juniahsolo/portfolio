@@ -14,4 +14,4 @@ Welcome to my personal portfolio website showcasing my skills and projects.
 
 ## View Live
 ## 🌐 Live Site  
-[View my portfolio](https://juniahsolo.github.io/portfolio)
+https://juniahsolo.github.io/portfolio/
