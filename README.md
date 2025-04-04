@@ -13,7 +13,5 @@ Welcome to my personal portfolio website showcasing my skills and projects.
 - CSS
 
 ## View Live
-## 🌐 Live Site
-## 🌐 Live Site
+## 🌐 Live Site  
 [View my portfolio](https://juniahsolo.github.io/portfolio)
-
